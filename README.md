@@ -41,7 +41,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone [https://github.com/usuario/literatura-app.git](https://github.com/juandresh/Challenge_literatura.git)
+   git clone https://github.com/juandresh/Challenge_literatura.git
    cd literatura-app
    ```
 
