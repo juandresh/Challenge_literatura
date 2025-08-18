@@ -20,7 +20,7 @@ Permite buscar libros por título usando la API de [Gutendex](https://gutendex.c
 - **Java 17+**
 - **Spring Boot 3+**
 - **Spring Data JPA**
-- **PostgreSQL
+- **PostgreSQL**
 - **Jackson** para manejo de JSON
 - **HTTP Client** para consumo de API externa
 - **Maven** como gestor de dependencias
